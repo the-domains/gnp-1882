@@ -1,7 +1,7 @@
 name: GNP Mansion - 1882 -
 favicon: null
-layout_spectrum: 0.8219648944213986
-typography_spectrum: 0.0822450912091881
+layout_spectrum: 0.52356
+typography_spectrum: 1
 title: GNP Mansion - 1882 -
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.10120739857666194
-  lightness: 0.5917227666359395
-  saturation: 0.7499181793536991
-  rhythmicContrast: 0.012100029271095991
+    - '#fdd7cd'
+    - '#8fa1b3'
+    - '#292a2f'
+    - '#6f696a'
+    - '#006ab5'
+  brandStrength: 0.5
+  lightness: 0.625
+  saturation: 0.6875
+  rhythmicContrast: 0.25
 purpose: []
