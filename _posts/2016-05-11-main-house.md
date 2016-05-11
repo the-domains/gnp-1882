@@ -4,11 +4,13 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: With a hammock
-datePublished: '2016-05-11T23:13:23.278Z'
-dateModified: '2016-05-11T23:12:54.969Z'
-title: ''
-author: []
+description: Dining room
+datePublished: '2016-05-11T23:30:29.987Z'
+dateModified: '2016-05-11T23:30:12.371Z'
+title: Main house
+author:
+  - name: ''
+    url: ''
 authors: []
 publisher:
   name: null
@@ -21,11 +23,8 @@ url: main-house/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22446d85-89af-4c9b-b3b7-2a9bde7df104.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cdf9fbcb-77d3-465f-ba76-6eaab339960e.jpg)
-
-With a hammock
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/35222525-8378-45d9-a453-833d9a76ce6d.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4ebee74-4059-4212-ae69-a80f19da55f3.jpg)
-
-And built-in cushioned seats with two built marble tables
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bb47569-795c-4f74-901a-4105984ca63f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/637af719-8fa8-4501-bd80-7e9817964e9b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f95de9c0-d99b-4f7c-87ef-582300276434.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/46504c4d-571c-4c2a-a385-e679721af7f8.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/537cc0ce-325e-451e-b9b1-87582f206067.jpg)
