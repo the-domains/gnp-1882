@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: "\n\t\n\t\n\t\t"
-datePublished: '2016-05-11T23:06:31.696Z'
-dateModified: '2016-05-11T23:06:12.119Z'
+description: With a hammock
+datePublished: '2016-05-11T23:13:23.278Z'
+dateModified: '2016-05-11T23:12:54.969Z'
 title: ''
 author: []
 authors: []
@@ -21,9 +21,11 @@ url: main-house/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8361cda6-7400-4e94-ae8d-0abccdbf6445.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e919846d-b831-4eba-bff7-a6eb70253fc7.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22446d85-89af-4c9b-b3b7-2a9bde7df104.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cdf9fbcb-77d3-465f-ba76-6eaab339960e.jpg)
 
-Main house balcony with breathtaking views of the sunset
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd80ad51-28db-48e5-a4e8-41ccaeb18b25.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/091b036a-308c-4136-8a64-2433f0b74dcc.jpg)
+With a hammock
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/35222525-8378-45d9-a453-833d9a76ce6d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4ebee74-4059-4212-ae69-a80f19da55f3.jpg)
+
+And built-in cushioned seats with two built marble tables
